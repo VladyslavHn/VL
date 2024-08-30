@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi! I am a Full Stack developer with understanding and experience in working with HTML5, CSS3, JavaScript, React, Redux, Next.js, Vue.js, Node.js.👨‍💻 </div>  
+### <div align="center">Hi! My name is Vladyslav and i'm a Full Stack developer with understanding and experience in working with HTML5, CSS3, JavaScript, React, Redux, Next.js, Vue.js, Node.js.👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning SQL, PHP, React native  
