@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am a Full Stack developer with understanding and experience in working with HTML5, CSS3, JavaScript, React, Redux, Next.js, Vue.js, Node.js.👨‍💻 </div>  
+### <div align="center">Hi! I am a Full Stack developer with understanding and experience in working with HTML5, CSS3, JavaScript, React, Redux, Next.js, Vue.js, Node.js.👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning SQL, PHP, React native  
@@ -74,16 +74,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladyslavHn&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
-
-
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
