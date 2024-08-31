@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Full Stack developer
 ---------------------------
 
-I am a Full Stack developer. I am committed to continuous learning and growth. I consider communication as a fundamental element in any process, and I identify myself as a team player. Being a part of a team is important to me.
+I am committed to continuous learning and growth. I consider communication as a fundamental element in any process, and I identify myself as a team player. Being a part of a team is important to me.
 
 * 🌍  I'm based in Brno, Czech Republic
 * ✉️  You can contact me at [hnatok.vladyslav@gmail.com](mailto:hnatok.vladyslav@gmail.com )
