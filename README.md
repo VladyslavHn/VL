@@ -15,7 +15,7 @@ I am committed to continuous learning and growth. I consider communication as a 
 
 * 🌍  I'm based in Brno, Czech Republic
 * ✉️  You can contact me at [hnatok.vladyslav@gmail.com](mailto:hnatok.vladyslav@gmail.com )
-* 🧠  I'm learning SQL, PHP, React native
+* 🧠  I'm currently in the process of learning SQL, PHP and React Native.
 
 ### Skills
 
